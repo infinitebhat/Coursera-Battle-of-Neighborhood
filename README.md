@@ -1,4 +1,4 @@
-# Coursera-Battle-of-Neighborhood
+# Battle-of-Neighborhood
 
 This project is part of IBM data certification course from Coursera. 
 
